@@ -14,4 +14,4 @@ hero:
       link: /main-page
     - theme: alt
       text: Credits
-      link: /credits
+      link: https://www.youtube.com/watch?v=EOTAWLaDa58

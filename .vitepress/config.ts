@@ -18,7 +18,7 @@ export default defineConfig({
         text: 'Wiki',
         items: [
           { text: 'Main Page', link: '/main-page' },
-          { text: 'Credits', link: '/credits' }
+          { text: 'Credits', link: 'https://www.youtube.com/watch?v=EOTAWLaDa58' }
         ]
       }
     ],
