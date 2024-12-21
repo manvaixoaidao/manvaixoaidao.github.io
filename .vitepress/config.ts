@@ -9,6 +9,10 @@ export default defineConfig({
     nav: [
     ],
 
+    search: {
+      provider: 'local'
+    },
+
     sidebar: [
       {
         text: 'Wiki',
