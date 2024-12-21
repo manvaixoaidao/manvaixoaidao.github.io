@@ -30,8 +30,5 @@ export default defineConfig({
     footer: {
       message: 'From 🇻🇳 with 💝'
     }
-  },
-  sitemap: {
-    hostname: 'https://salt.io.vn'
   }
 })

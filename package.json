@@ -1,8 +1,7 @@
 {
-  "name": "salt",
+  "name": "smithaulait",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://salt.io.vn",
   "author": "cachiusa",
   "license": "MIT",
   "devDependencies": {
